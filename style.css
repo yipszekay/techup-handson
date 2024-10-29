@@ -1,0 +1,22 @@
+h1 {
+    color: palevioletred;
+    text-align: center;
+    border: 5px palevioletred dotted;
+    padding-top: 5px; 
+    padding-bottom: 5px;
+    margin-bottom: 100px;
+}
+h3 {
+    color: rgb(221, 150, 19);
+    text-align: center;
+    padding: 20px;
+}
+
+.title {
+    background-color: antiquewhite;
+}
+
+#important {
+    color: yellowgreen;
+    text-align: left;
+}
